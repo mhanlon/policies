@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing conduct@stumptownsyndicate.org. 
+If you believe someone is violating the code of conduct we ask that you report it to the Dalkey Developers by emailing redsoxnation@mac.com. 
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -20,7 +20,7 @@ In your report please include:
 
 ## What happens after you file a report?
 
-You will receive an email from the Stumptown Syndicate's Code of Conduct response team acknowledging receipt as soon as possible, but within 24 hours.
+You will receive an email from the Dalkey Developer's Code of Conduct response team acknowledging receipt as soon as possible, but within 24 hours.
 
 The working group will immediately meet to review the incident and determine:
 
@@ -36,18 +36,18 @@ Once the team has a complete account of the events they will make a decision as 
 * A private reprimand from the Code of Conduct response team to the individual(s) involved.
 * A public reprimand.
 * An imposed vacation (i.e. asking someone to "take a week off" from a mailing list or IRC).
-* A permanent or temporary ban from some or all Stumptown Syndicate spaces (events, meetings, mailing lists, IRC, etc.)
+* A permanent or temporary ban from some or all Dalkey Developer spaces (events, meetings, mailing lists, IRC, etc.)
 * A request to engage in mediation and/or an accountability plan.
 
 We'll respond within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved.
 
 Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but our response will be determined by what will be best for community safety.
 
-Finally, the response team will make a report on the situation to the Stumptown Syndicate board. The board may choose to issue a public report of the incident or take additional actions.
+Finally, the response team will make a report on the situation to the Dalkey Developer board. The board may choose to issue a public report of the incident or take additional actions.
 
 ## Appealing the response
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptown Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptown Syndicate Board at redsoxnation@mac.com with your appeal and the Syndicate board will review the case.
 
 _Revision 1.0, DRAFT, proposed June 2014_
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
